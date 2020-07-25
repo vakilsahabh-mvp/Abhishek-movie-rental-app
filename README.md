@@ -1,3 +1,8 @@
+This app is made purely for learning react. It is a movie rental app.<br>
+To run this app in your system. Clone this repo in your system and cd to the folder containing the file app.js. Then in the terminal use npm i to install all the node_modules and dependencies to run this app.<br>
+After this use npm start to start this app in your local server. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
