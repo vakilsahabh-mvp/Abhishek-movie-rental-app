@@ -1,73 +1,28 @@
-This app is made purely for learning react. It is a movie rental app.<br>
-To run this app in your system. Clone this repo in your system and cd to the folder containing the file app.js. Then in the terminal use npm i to install all the node_modules and dependencies to run this app.<br>
-After this use npm start to start this app in your local server. 
+# Movie Rental App
 
+## Introduction
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. This is a very basic React-App named Vidly.
+2. This project is based on the react course made by <a href="https://codewithmosh.com/p/mastering-react"> Mosh Hamedani</a>
+3. This app uses third party tools such as Bootstrap, Axios, Font Awesome, React Router Dom, for many work purposes.
 
-## Available Scripts
+## Contents of this app
 
-In the project directory, you can run:
+1. Movie-Form=> To add a new movie to the list or to edit a previous one.
+2. Login-Form=> To login to the backend services.
+3. Register-Form=> To register in the backend services and use the app to add new movies.
+4. Movies=> To view the movies list and search, sort, and view according to genre of the movie.
 
-### `npm start`
+## App setup
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Clone this repo in your system.
+ `git clone https://github.com/vakilsahabh-mvp/Abhishek-movie-rental-app.git`
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+2. Open your terminal and cd to the package.json file. Then run 
+ `npm i`
+ The modules would install in the system to work for the app.
 
-### `npm test`
+3. To run this app in your system use
+ `npm start`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+4. This will start the app in your local server, i.e. localhost.
