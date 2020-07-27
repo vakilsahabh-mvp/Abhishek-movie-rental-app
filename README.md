@@ -8,10 +8,19 @@
 
 ## Contents of this app
 
-1. Movie-Form=> To add a new movie to the list or to edit a previous one.
-2. Login-Form=> To login to the backend services.
-3. Register-Form=> To register in the backend services and use the app to add new movies.
-4. Movies=> To view the movies list and search, sort, and view according to genre of the movie.
+1. Movie-Form - To add a new movie to the list or to edit a previous one.
+2. Login-Form - To login to the backend services.
+3. Register-Form - To register in the backend services and use the app to add new movies.
+4. Movies - To view the movies list and search, sort, and view according to genre of the movie.
+
+## Tools Used
+ 1. Axios
+ 2. Bootstrap
+ 3. Font Awesome
+ 4. Joi
+ 5. React Router Dom
+ 6. Raven JS
+ 
 
 ## App setup
 
